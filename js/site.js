@@ -66,3 +66,4 @@ function displayMessage(reversedMessage) {
     let alertDiv = document.getElementById('alertDiv');
     alertDiv.classList.remove('invisible');
 }
+//testing github commit 
